@@ -5,7 +5,7 @@ Aangan is a full-stack mobile application designed to facilitate secure, peer-to
 
 ***
 
-## ✨ Key Features & Technical Achievements
+## ✨ Key Features:
 
 This project required the integration of mobile front-end, high-availability backend services, and specialized geospatial database logic.
 
